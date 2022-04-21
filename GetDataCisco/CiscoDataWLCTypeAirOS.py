@@ -5,7 +5,7 @@
 import IFX_SCONF, GetDataCisco
 
 ifx_sconf = IFX_SCONF.IFX_SCONF()
-firstdir = '/temp'
+firstdir = '/tmp'
 
 def main():
     out_number = 5
